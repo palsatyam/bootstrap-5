@@ -10,19 +10,3 @@
     width: 100%;
 }
 /* responsive css code  */
-
-/* X-Small devices (portrait phones, less than 576px) */
- /* No media query for `xs` since this is the default in Bootstrap */
- /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {Sorry, this Media is not availble}
- /* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {Sorry, this Media is not availble}
-
- /* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) { Sorry, this Media is not availble}
-
- /* X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { Sorry, this Media is not availble}
-
-/* XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) { Sorry, this Media is not availble}
